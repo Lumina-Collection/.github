@@ -1,0 +1,16 @@
+name: .github
+id: ari:cloud:compass:8c48ddcb-e436-48ae-9b29-7b72d3567c9b:component/14f32da4-ded6-4a9e-8807-a06a1f205919/dcbcd626-2c89-4924-8302-4ae792de4388
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Lumina-Collection/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
